@@ -5,6 +5,7 @@ In this project, developed using the Java language, I implemented basic inputs w
 However, towards the end, we have a menu built with "switch cases" and loops. This menu provides action options to the user. Nevertheless, this basic challenge is part of a DIO Bootcamp: Santander Bootcamp | Fullstack Developer.
 
 <img src="Doc/README_assets/terminal.png">
+<img src="Doc/README_assets/diagrama.png">
 
 ## 🦾 Technologies used
 <div style="display: flex;">
@@ -17,6 +18,7 @@ However, towards the end, we have a menu built with "switch cases" and loops. Th
 - improved my skills in polymorphism.
 - I enhanced my skills in inheritance.
 - I honed my skills in contracts between classes.
+- I enhanced my skills in building projects layouts.
 - Additionally, I refined my overall object-oriented programming (OOP) skills.
 
 ## 👽 How to clone this project
